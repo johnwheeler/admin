@@ -34,6 +34,7 @@ To do a webcast you will need, at minimum:
 ## Testing your setup
 
 1. Navigate to https://www.youtube.com/my_live_events
+1. Enable Live Streaming if it's not already enabled.
 1. Click "create new event"
 1. Select "private" and ensure it says "Only you can view"
 1. Make the title something like "TEST- Your Talk Name"
